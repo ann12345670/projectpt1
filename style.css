@@ -1,0 +1,59 @@
+span{
+letter-spacing: 2px;
+color: black;
+}
+
+p{
+    color:red;
+    letter-spacing: 2px;
+    font-size: 20px;
+    
+}
+
+img{
+    height: 260px;
+    margin-top: 10px;
+    margin-bottom: 10px; 
+    border-radius: 10px;
+}
+.testresult{
+    color: white;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+
+span{
+    letter-spacing: 1px;
+}
+b{
+    color: purple;
+
+}
+
+.test_image_result1{
+    margin-top: 15px;
+    background-color: darkgray;
+    border-radius: 10px;
+    box-shadow: 3px 3px 25px gray;
+    width: 95%;
+    margin-bottom: 15px;
+    height: 70%;
+
+
+}
+
+h4{
+    color: white;
+    font-weight: bold;
+}
+.first,.second{
+    background-color: white;
+    border-radius: 10px;
+    height: 25;
+
+}
+footer{
+    color: red;
+    font-weight: bold;
+
+}
